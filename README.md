@@ -17,6 +17,4 @@ An engaging web application that allows users to explore and discover movies eff
 - **Bootstrap**: Enhances responsiveness and layout flexibility.
 - **API Integration**: Fetches movie data dynamically.
 
----
 
-Let me know if you'd like a LinkedIn post for this or need further edits!
